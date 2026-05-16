@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Fernando Sozo Marcolin, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Nossa Senhora Aparecida. Atualmente, estou cursando Engenharia da Computação na FURG.
+Me chamo Fernando Sozo Marcolin, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Nossa Senhora Aparecida. Atualmente, estou cursando Engenharia da Computação na FURG.
 
 <p align="left">
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKFmZVbDBSCJktZcrQccNMZDjRnlppbGJXdKntfpkLBdJHHRbljzSnFlmZnKXbfnVkvjB/">
