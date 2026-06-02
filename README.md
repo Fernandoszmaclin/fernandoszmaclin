@@ -94,7 +94,7 @@ interesses:
 </td>
 <td align="center" width="96">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" width="48" height="48" alt="Gazebo" />
+    <img src="https://avatars.githubusercontent.com/u/60547927?s=48" width="48" height="48" alt="Gazebo" />
   </a>
   <br><sub><b>Gazebo</b></sub>
 </td>
@@ -108,26 +108,14 @@ interesses:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fernandoszmaclin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=0097A7&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fernandoszmaclin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1b27&ring=0097A7&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoszmaclin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoszmaclin&theme=github_dark" />
 
 <br>
 
-## &nbsp;🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandoszmaclin/fernandoszmaclin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandoszmaclin/fernandoszmaclin/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/fernandoszmaclin/fernandoszmaclin/output/github-snake-dark.svg" />
-</picture>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandoszmaclin&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandoszmaclin&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandoszmaclin&theme=github_dark" />
 
 </div>
 
