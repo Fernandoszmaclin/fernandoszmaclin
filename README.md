@@ -1,114 +1,62 @@
-# 👨‍💻 Fernando Sozo Marcolin
+<div align="center">
 
-**`Desenvolvedor Backend`**
+# Fernando Sozo Marcolin
 
-Me chamo Fernando Sozo Marcolin, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Nossa Senhora Aparecida. Atualmente, estou cursando Engenharia da Computação na FURG.
+**`Backend Developer | Embedded Systems`**
 
-<p align="left">
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKFmZVbDBSCJktZcrQccNMZDjRnlppbGJXdKntfpkLBdJHHRbljzSnFlmZnKXbfnVkvjB/">
-        <img 
-            alt="email" 
-            title="Me escreva" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            />
-    <a href="https://github.com/Fernandoszmaclin?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Fernandoszmaclin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<br>
+
+[![FURG](https://img.shields.io/badge/FURG-Universidade_Federal_do_Rio_Grande-003366?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDNMIDEgOWwxMSA0IDExLTR6Ii8+PHBhdGggZD0iTTEgOXY4bDExIDQgMTEtNFY5Ii8+PC9zdmc+)](https://www.furg.br/)
+[![Hydrone](https://img.shields.io/badge/Projeto-Hydrone-0097A7?style=for-the-badge&logo=probot&logoColor=white)]()
+
+</div>
 
 ---
 
-### ⚡ Linguagens e Tecnologias
+### 🧑‍💻 &nbsp;Sobre mim
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"   
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"          
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Gazebo" 
-    title="Gazebo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-/>
-          
-<br/>
-<br/>
+Estudante de graduação na **FURG** e membro do **Projeto Hydrone**, atuando com sistemas embarcados. Focado em desenvolvimento **Backend**, com interesse em robótica, automação e arquitetura de software.
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fernandoszmaclin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🛠️ &nbsp;Tech Stack
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoszmaclin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
 
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebosim&logoColor=white)
 
+</div>
+
+---
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandoszmaclin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoszmaclin&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sozo-marcolin-18b336321/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fermarcolin1@gmail.com)
+
+</div>
