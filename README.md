@@ -20,11 +20,12 @@
 ```yaml
 nome: Fernando Sozo Marcolin
 universidade: FURG - Universidade Federal do Rio Grande
-projeto: Hydrone (Sistemas Embarcados)
+projeto: Atualmente Sem Projeto
 foco: Desenvolvimento Backend
 interesses:
   - Robótica e Automação
   - Arquitetura de Software
+  - Redes
   - Sistemas Embarcados
   - Simulação e Controle
 ```
