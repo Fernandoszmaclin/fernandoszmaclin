@@ -22,10 +22,10 @@ Simulador de sistema de arquivos baseado em i-nodes, com disco persistido em uma
 
 ## Conhecimentos
 
-- **Backend e dados:** Python, Django, SQL e PostgreSQL
-- **Engenharia de software:** testes automatizados, Git, Docker e Linux
-- **Sistemas e robótica:** C, C++, ROS 2 e Gazebo
-- **Frontend:** JavaScript, HTML e CSS
+- **Linguagens:** Python, C, C++, JavaScript e SQL
+- **Web e dados:** Django, PostgreSQL, HTML e CSS
+- **Robótica:** ROS 2 e Gazebo
+- **Ferramentas:** Git, Docker e Linux
 
 Também mantenho um repositório com [resoluções de LeetCode](https://github.com/Fernandoszmaclin/LeetCode).
 
