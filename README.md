@@ -8,22 +8,26 @@ Estudante de Engenharia de Computação na FURG, com foco em desenvolvimento bac
 
 Ambiente acadêmico completo com editor em blocos, Pomodoro, gestão de matérias, calendário e planejamento semanal. Desenvolvido com **Django, JavaScript, CSS e PostgreSQL/SQLite**.
 
-### [Sortie](https://github.com/Fernandoszmaclin/Sortie)
+### [DocLens](https://github.com/Fernandoszmaclin/DocLens)
 
-Aplicação desktop, offline-first, para registrar e analisar telemetria MAVLink de veículos autônomos. O projeto utiliza **Python, PySide6, SQLite e PyQtGraph**, com forte atenção a testes, desempenho e arquitetura.
+Aplicação web para buscar informações em memorandos e comunicados em português, combinando OCR e busca híbrida com NLP e TF-IDF. Os resultados mostram o trecho encontrado destacado na página de origem. Desenvolvido com **Python, OpenCV, EasyOCR, SQLite e JavaScript**.
 
 ### [ProcessManager](https://github.com/Fernandoszmaclin/ProcessManager)
 
 Simulador de sistemas operacionais que reúne escalonamento de processos, memória paginada, algoritmos de substituição de páginas e dispositivos de entrada e saída, desenvolvido em **Python**.
 
+### [FileSystem](https://github.com/Fernandoszmaclin/FileSystem)
+
+Simulador de sistema de arquivos baseado em i-nodes, com disco persistido em uma imagem de 128 MiB e um terminal com comandos como `ls`, `cp`, `mv`, `mkdir` e `chmod`. Desenvolvido em **C11**.
+
 ## Conhecimentos
 
-- **Backend e dados:** Python, Django, SQL, SQLite e PostgreSQL
-- **Engenharia de software:** testes automatizados, arquitetura, Git, Docker e Linux
-- **Sistemas e automação:** C, C++, ROS 2, Gazebo, redes e sistemas embarcados
+- **Backend e dados:** Python, Django, SQL e PostgreSQL
+- **Engenharia de software:** testes automatizados, Git, Docker e Linux
+- **Sistemas e robótica:** C, C++, ROS 2 e sistemas embarcados
 - **Frontend:** JavaScript, HTML e CSS
 
-Também mantenho um repositório com [resoluções de algoritmos e estruturas de dados](https://github.com/Fernandoszmaclin/LeetCode).
+Também mantenho um repositório com [resoluções de LeetCode](https://github.com/Fernandoszmaclin/LeetCode).
 
 ## Contato
 
