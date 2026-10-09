@@ -1,6 +1,6 @@
 # Fernando Sozo Marcolin
 
-Estudante de Engenharia de Computação na FURG, com foco em desenvolvimento backend, engenharia de software e sistemas autônomos. Gosto de transformar problemas reais em aplicações bem estruturadas, testáveis e úteis.
+Estudante de Engenharia de Computação na FURG, com foco em desenvolvimento backend, engenharia de software e sistemas autônomos. Atualmente estudo inteligência artificial, com ênfase em visão computacional e processamento de linguagem natural.
 
 ## Projetos em destaque
 
